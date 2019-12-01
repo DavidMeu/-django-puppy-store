@@ -23,9 +23,4 @@ if __name__ == "__main__":
 
 
 
-cigarettes = ('cigarette' for i in range(18))
-next(cigarettes)
-'cigarette'
-
-
 
